@@ -7,12 +7,12 @@ In order to install this program, it is crucial that you are on a __Linux-based_
 
 First, `git clone`.
 
-    git clone https://github.com/toxic-ig/Trity.git
+    git clone https://github.com/NTNUelec/Trity.git
 
 Change directory, and then run the installer script (Must be root or have superuser permissions):
 
     cd path/Trity
-    sudo python install.py
+    sudo python2.7 install.py
 
 The `install.py` script will install of the necessary dependencies for you. Other platforms will be supported in the future.
 
